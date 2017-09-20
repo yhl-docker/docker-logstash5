@@ -1,4 +1,4 @@
-FROM logstash:alpine
+FROM docker.elastic.co/logstash/logstash:5.6.1
 MAINTAINER qingwen.ye@1024hw.org
 
 ENV TIMEZONE Asia/Shanghai
