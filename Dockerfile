@@ -1,4 +1,4 @@
-FROM logstash:alpin
+FROM logstash:alpine
 MAINTAINER qingwen.ye@1024hw.org
 
 ENV TIMEZONE Asia/Shanghai
