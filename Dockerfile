@@ -1,5 +1,4 @@
 FROM docker.elastic.co/logstash/logstash:5.6.3
-MAINTAINER qingwen.ye@1024hw.org
 
 ENV TIMEZONE Asia/Shanghai
 
